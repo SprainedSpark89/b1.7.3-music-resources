@@ -1,0 +1,1 @@
+<ListBucketResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Name>MinecraftResources</Name><Prefix/><Marker/><MaxKeys>1000</MaxKeys><IsTruncated>false</IsTruncated><Contents><Key>the end.ogg</key><Size>9966606</Size><StorageClass>STANDARD</StorageClass></Contents></ListBucketResult>
