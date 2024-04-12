@@ -1,1 +1,508 @@
-<ListBucketResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Name>MinecraftResources</Name><Prefix/><Marker/><MaxKeys>1000</MaxKeys><IsTruncated>false</IsTruncated><Contents><Key>streaming/11.ogg</key><Size>869202</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/ballad of the cats.ogg</key><Size>3382020</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/blocks.ogg</key><Size>4500281</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/chirp.ogg</key><Size>2349285</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/chirp.ogg</key><Size>2349285</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/death.ogg</key><Size>579500</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/dog.ogg</key><Size>1752701</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/door.ogg</key><Size>1406128</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/droopy likes ricochet.ogg</key><Size>1287011</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/droopy likes your face.ogg</key><Size>1657120</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/far.ogg</key><Size>2426748</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/intro.ogg</key><Size>3743759</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/mall.ogg</key><Size>2463475</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/mellohi.ogg</key><Size>1104551</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/otherside.ogg</key><Size>2711352</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/pigstep.ogg</key><Size>1616778</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/stal.ogg</key><Size>1865277</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/strad.ogg</key><Size>1865277</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/wait.ogg</key><Size>3058380</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/ward.ogg</key><Size>330008</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>streaming/warmth.ogg</key><Size>2803559</Size><StorageClass>STANDARD</StorageClass><Contents><Key>streaming/5.ogg</key><Size>1796221</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/alpha.ogg</key><Size>6117016</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/aria math.ogg</key><Size>3649653</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/begginning 2.ogg</key><Size>1846823</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/begginning.ogg</key><Size>961667</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/biome fest.ogg</key><Size>4225413</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/blind spots.ogg</key><Size>3712979</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/clark.ogg</key><Size>1821627</Size><StorageClass>STANDARD</StorageClass></Contents></Contents><Contents><Key>newmusic/danny.ogg</key><Size>2332603</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/dretion.ogg</key><Size>5585760</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/dry hands.ogg</key><Size>413632</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/equinoxe.ogg</key><Size>1209524</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/excuse.ogg</key><Size>990380</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/flake.ogg</key><Size>1898213</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/floating trees.ogg</key><Size>2327530</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/haggstrom.ogg</key><Size>2098675</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/haunt muskie.ogg</key><Size>3826271</Size><StorageClass>STANDARD</StorageClass><Contents><Key>newmusic/key.ogg</key><Size>630517</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/ki.ogg</key><Size>1003797</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/kyoto.ogg</key><Size>2361134</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/living mice.ogg</key><Size>1622531</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/mice on venus.ogg</key><Size>2784962</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/minecraft.ogg</key><Size>2220961</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/moog city 2.ogg</key><Size>1846713</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/moog city.ogg</key><Size>1696363</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/mutation.ogg</key><Size>1912362</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/oxygene.ogg</key><Size>663579</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/subwoofer lullaby.ogg</key><Size>1883277</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/sweden.ogg</key><Size>2026690</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/taswell.ogg</key><Size>5473963</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusic/wet hands.ogg</key><Size>702956</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusicnether/concrete halls.ogg</key><Size>2780722</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusicnether/dead voxel.ogg</key><Size>2910305</Size><StorageClass>STANDARD</StorageClass></Contents><Contents><Key>newmusicvoid/the end.ogg</key><Size>9966606</Size><StorageClass>STANDARD</StorageClass></Contents></ListBucketResult>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResourceList>
+    <Name>MinecraftResources</Name>
+    <Contents>
+        <Key>newmusic/alpha.ogg</Key>
+        <Size>6117016</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/an ordinary day.ogg</Key>
+        <Size>3753357</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/aria math.ogg</Key>
+        <Size>3649653</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/beginning 2.ogg</Key>
+        <Size>1846823</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/beginning.ogg</Key>
+        <Size>961667</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/biome fest.ogg</Key>
+        <Size>4225413</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/blind spots.ogg</Key>
+        <Size>3712979</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/chris.ogg</Key>
+        <Size>890100</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/clark.ogg</Key>
+        <Size>1821627</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/comforting memories.ogg</Key>
+        <Size>3066337</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/danny.ogg</Key>
+        <Size>2332603</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/dreiton.ogg</Key>
+        <Size>5585760</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/dry hands.ogg</Key>
+        <Size>413632</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/equinoxe.ogg</Key>
+        <Size>1209524</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/excuse.ogg</Key>
+        <Size>990380</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/firebugs.ogg</Key>
+        <Size>3933865</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/flake.ogg</Key>
+        <Size>1898213</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/floating dream.ogg</Key>
+        <Size>1995540</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/floating trees.ogg</Key>
+        <Size>2327530</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/haggstrom.ogg</Key>
+        <Size>2098675</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/haunt muskie.ogg</Key>
+        <Size>3826271</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/infinite amethyst.ogg</Key>
+        <Size>3322037</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/key.ogg</Key>
+        <Size>630517</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/ki.ogg</Key>
+        <Size>1003797</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/kyoto.ogg</Key>
+        <Size>2361134</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/labyrinthine.ogg</Key>
+        <Size>4192561</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/living mice.ogg</Key>
+        <Size>1622531</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/mice on venus.ogg</Key>
+        <Size>2784962</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/minecraft.ogg</Key>
+        <Size>2220961</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/moog city 2.ogg</Key>
+        <Size>1846713</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/moog city.ogg</Key>
+        <Size>1696363</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/mutation.ogg</Key>
+        <Size>1912362</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/one more day.ogg</Key>
+        <Size>3450580</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/oxygene.ogg</Key>
+        <Size>663579</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/stand tall.ogg</Key>
+        <Size>3969447</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/subwoofer lullaby.ogg</Key>
+        <Size>1883277</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/sweden.ogg</Key>
+        <Size>2026690</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/taswell.ogg</Key>
+        <Size>5473963</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/wending.ogg</Key>
+        <Size>4038873</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusic/wet hands.ogg</Key>
+        <Size>702956</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusicnether/chrysopoeia.ogg</Key>
+        <Size>3790593</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusicnether/concrete halls.ogg</Key>
+        <Size>2780722</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusicnether/dead voxel.ogg</Key>
+        <Size>2910305</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusicnether/rubedo.ogg</Key>
+        <Size>3821472</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusicnether/so below.ogg</Key>
+        <Size>3701078</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusicvoid/ancestry.ogg</Key>
+        <Size>4171765</Size>
+    </Contents>
+    <Contents>
+        <Key>newmusicvoid/the end.ogg</Key>
+        <Size>9966606</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/11.ogg</Key>
+        <Size>869202</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/5.ogg</Key>
+        <Size>1796221</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/8-bits, pieces & chunks.ogg</Key>
+        <Size>2438038</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/agile accelerando.ogg</Key>
+        <Size>1086968</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/airship adventurers.ogg</Key>
+        <Size>2510491</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/aviation.ogg</Key>
+        <Size>1928732</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/ballad of the cats.ogg</Key>
+        <Size>3382020</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/beat around the block.ogg</Key>
+        <Size>2763306</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/blocks.ogg</Key>
+        <Size>4500281</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/born to arms.ogg</Key>
+        <Size>1912207</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/breakneck boogie.ogg</Key>
+        <Size>1053763</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/canyon clearance.ogg</Key>
+        <Size>2074792</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/celtic crossing.ogg</Key>
+        <Size>1963277</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/chirp.ogg</Key>
+        <Size>2349285</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/chop chop.ogg</Key>
+        <Size>979131</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/clockwork crafter.ogg</Key>
+        <Size>2685943</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/crafter's candy canes.ogg</Key>
+        <Size>1993754</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/crusaders.ogg</Key>
+        <Size>2852151</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/dance of the blocks.ogg</Key>
+        <Size>2042165</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/dashing on the double.ogg</Key>
+        <Size>1006513</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/death.ogg</Key>
+        <Size>579500</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/departures.ogg</Key>
+        <Size>1682965</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/desert duel.ogg</Key>
+        <Size>2002030</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/dog.ogg</Key>
+        <Size>1752701</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/door.ogg</Key>
+        <Size>1406128</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/double time.ogg</Key>
+        <Size>1081883</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/droopy likes ricochet.ogg</Key>
+        <Size>1287011</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/droopy likes your face.ogg</Key>
+        <Size>1657120</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/excalibur excursion.ogg</Key>
+        <Size>1714088</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/far.ogg</Key>
+        <Size>2426748</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/flight of fancy.ogg</Key>
+        <Size>1996205</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/from district to district.ogg</Key>
+        <Size>2722181</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/ghosts in the tower.ogg</Key>
+        <Size>2205007</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/giftwrapped.ogg</Key>
+        <Size>2206422</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/happy halloween.ogg</Key>
+        <Size>2331133</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/hastilude.ogg</Key>
+        <Size>3490654</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/icaria.ogg</Key>
+        <Size>1752393</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/in the flow.ogg</Key>
+        <Size>1732250</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/industrial quarter.ogg</Key>
+        <Size>2891023</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/intro.ogg</Key>
+        <Size>3743759</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/lickety split.ogg</Key>
+        <Size>1046552</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/locomotion.ogg</Key>
+        <Size>1882397</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/magnificent machines.ogg</Key>
+        <Size>3351487</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/mall.ogg</Key>
+        <Size>2463475</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/master builder.ogg</Key>
+        <Size>2336498</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/mellohi.ogg</Key>
+        <Size>1104551</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/mobile maneuvers.ogg</Key>
+        <Size>1721294</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/nimbly does it.ogg</Key>
+        <Size>1053759</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/otherside.ogg</Key>
+        <Size>2711352</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/pacy piloting.ogg</Key>
+        <Size>1901635</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/pigstep.ogg</Key>
+        <Size>1616778</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/pixiu.ogg</Key>
+        <Size>1587547</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/precincts at night.ogg</Key>
+        <Size>2420434</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/progression and passage.ogg</Key>
+        <Size>1859212</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/pronto.ogg</Key>
+        <Size>964494</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/roaming wanderer.ogg</Key>
+        <Size>1801039</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/shrunk soaring.ogg</Key>
+        <Size>1811321</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/soothing voyage.ogg</Key>
+        <Size>1711021</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/stal.ogg</Key>
+        <Size>1865277</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/steaming superstructures.ogg</Key>
+        <Size>2799395</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/strad.ogg</Key>
+        <Size>2788574</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/sunset riders.ogg</Key>
+        <Size>2103864</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/swift descent.ogg</Key>
+        <Size>1090395</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/tense takeoff.ogg</Key>
+        <Size>1619901</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/the outlaw.ogg</Key>
+        <Size>2338788</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/tianma.ogg</Key>
+        <Size>1883269</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/time is of the essence.ogg</Key>
+        <Size>942060</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/tour of tors.ogg</Key>
+        <Size>1885257</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/toys on a tear.ogg</Key>
+        <Size>2142726</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/velocity and dynamism.ogg</Key>
+        <Size>1720518</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/wait.ogg</Key>
+        <Size>3058380</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/ward.ogg</Key>
+        <Size>3300082</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/warmth.ogg</Key>
+        <Size>2803559</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/warped world.ogg</Key>
+        <Size>2399017</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/wicked wings.ogg</Key>
+        <Size>1742681</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/wings of daedalus.ogg</Key>
+        <Size>1620720</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/wonderful wings.ogg</Key>
+        <Size>1664072</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/wondrous workshop.ogg</Key>
+        <Size>2344203</Size>
+    </Contents>
+    <Contents>
+        <Key>streaming/yinglong.ogg</Key>
+        <Size>1643256</Size>
+    </Contents>
+</ResourceList>
