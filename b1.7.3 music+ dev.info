@@ -1,0 +1,11 @@
+release-date:0
+compile-date:0
+url:https://github.com/SprainedSpark89/b1.7.3-music-builds/releases/latest/download/MusicPlus-client.zip
+launch-method:indev
+launch-method-link:
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
+other-name:
+protocolVersion:14
+sha1:
+base-version:b1.7.3
+file-ver:1
